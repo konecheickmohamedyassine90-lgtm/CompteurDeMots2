@@ -10,7 +10,7 @@ public class Main {
 
         try {
             // Ouvrir le fichier texte.txt
-            File fichier = new File("src/texte.txt");
+            File fichier = new File("test.txt");
             Scanner lecteur = new Scanner(fichier);
 
             System.out.println("Compteur de mots");

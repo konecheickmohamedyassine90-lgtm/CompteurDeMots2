@@ -1,3 +1,0 @@
-Bonjour je suis etudiant a Pigier
-Java est un langage de programmation orienté objet
-Je fais un exercice de comptage de mots
