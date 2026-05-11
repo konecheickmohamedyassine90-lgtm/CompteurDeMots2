@@ -12,9 +12,8 @@ dans un fichier texte.
 
 ## Comment exécuter
 1. Ouvrir le projet dans IntelliJ IDEA
-2. Modifier le fichier texte.txt avec ton texte
-3. Exécuter la classe Main.java
-4. Le programme affiche le nombre de mots
+2. Exécuter la classe Main.java
+3. Le programme affiche le nombre de mots
 
 ## Auteur
 Koné Cheick Mohamed Yassine
